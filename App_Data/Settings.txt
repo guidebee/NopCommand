@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=.;Initial Catalog=nopcommerce;Integrated Security=False;Persist Security Info=False;User ID=smartstore;Password=!@#Password
