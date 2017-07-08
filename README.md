@@ -11,6 +11,8 @@ NopCommand  is a command line tool for NopCommerce.
   - Create a Tool directory under nop commerce src directory
   - Copy NopCommand project to tool directory.
 
+# Database configuration
+  Copy Settings.txt from Nop.Web's App_Data directory.
 
 # Command Line
 
@@ -193,4 +195,5 @@ four code template are defined
 You can extend this class to support other service methods to generate all the command code.
 
 
-
+# Command Framework
+  The command framework uses ConsoleApplicationBase at https://github.com/TypecastException/ConsoleApplicationBase
