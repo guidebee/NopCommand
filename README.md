@@ -14,6 +14,10 @@ NopCommand  is a command line tool for NopCommerce.
 # Database configuration
   Copy Settings.txt from Nop.Web's App_Data directory.
 
+# Binary
+  unzip Exe.zip ,copy Settings.txt of your nopcommerce site. The binary was built with NopCommerce 3.9,which means
+  it works with 3.9 version. If you want to support other version, use the source to build for the NopCommerce version.
+  
 # Command Line
 
 ### Generic data query
